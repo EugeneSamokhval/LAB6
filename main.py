@@ -16,6 +16,7 @@ def main():
     print(title_author.get('Путешественница. Книга 2. В плену стихий'))
     title_author.remove('Путешественница. Книга 2. В плену стихий')
     print(title_author.get('Путешественница. Книга 2. В плену стихий'))
+    print(title_author.get('Хроника одного полка 1916 год. В окопах'))
 
 
 if __name__ == '__main__':
